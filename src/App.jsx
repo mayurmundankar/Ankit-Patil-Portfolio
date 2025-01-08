@@ -84,7 +84,7 @@ function App() {
                 <a href="https://www.linkedin.com/in/ankit-patil24" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">LinkedIn</a>
                 <a href="https://github.com/ankitpatil24" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">GitHub</a>
                 <a href="https://huggingface.co/AnkitPatil" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Hugging Face</a>
-                <a href="https://drive.google.com/your-resume-link" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Resume</a>
+                <a href="https://drive.google.com/drive/folders/14kISxydpdbuuCWz9cxlipKUrMn6Xf--i" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Resume</a>
               </div>
             </div>
 
@@ -124,7 +124,7 @@ function App() {
               <a href="https://www.linkedin.com/in/ankit-patil24" className="block px-3 py-2 hover:text-accent transition-colors">LinkedIn</a>
               <a href="https://github.com/ankitpatil24" className="block px-3 py-2 hover:text-accent transition-colors">GitHub</a>
               <a href="https://huggingface.co/AnkitPatil" className="block px-3 py-2 hover:text-accent transition-colors">Hugging Face</a>
-              <a href="https://drive.google.com/your-resume-link" className="block px-3 py-2 hover:text-accent transition-colors">Resume</a>
+              <a href="https://drive.google.com/drive/folders/14kISxydpdbuuCWz9cxlipKUrMn6Xf--i" className="block px-3 py-2 hover:text-accent transition-colors">Resume</a>
             </div>
           </div>
         )}
